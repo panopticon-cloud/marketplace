@@ -1,1 +1,8 @@
-["54c92e1f-61b9-4cc9-a8c4-353b925e2625", "88ffd3b4-6bf3-4a14-b52a-4a39a07537bb"]
+{
+  "modulePresets": [
+    "54c92e1f-61b9-4cc9-a8c4-353b925e2625",
+    "88ffd3b4-6bf3-4a14-b52a-4a39a07537bb"
+  ],
+  "servicePresets": ["d69bf0e8-516b-4b9e-85a8-ce30517cbf09"],
+  "presetPackages": ["0ce35db8-7585-4743-8681-d9e7484440a8"]
+}
